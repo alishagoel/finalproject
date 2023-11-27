@@ -177,3 +177,14 @@ a{
 	color: red;
 	font-size: 6em;
 }
+
+.audio{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 5%;
+}
+
+.imgWidth{
+	width: 40vw;
+}
