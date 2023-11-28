@@ -57,7 +57,7 @@ function submitName() {
 }
 let dialogue = [
   "Welcome Professor ","", "Please make this office your home.", "[You start putting your belongings]", 
-  "[You open a drawer]", "I wonder what this is. Oh there is a note!"
+  "[You open a cabinet]", "I wonder what this is. Oh there is a note!"
 ];
 
 img.addEventListener('click', function () {
