@@ -60,6 +60,7 @@ let dialogue = [
   "[You open a cabinet]", "I wonder what this is. Oh there is a note!"
 ];
 
+
 img.addEventListener('click', function () {
   if (toggle == 0) {
     line.textContent = "Welcome Professor " + nameInput + " to Illburn High School! Thank you so much for filling in last minute. Let me direct you to your office...";
